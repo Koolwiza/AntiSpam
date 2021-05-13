@@ -1,0 +1,20 @@
+{
+  "name": "antispam",
+  "version": "1.0.0",
+  "description": "An antispam client for your discord server - multi guild",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "enmap": "^5.8.4",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "antispam"
+  ],
+  "author": "Koolwiza",
+  "license": "MIT"
+}
